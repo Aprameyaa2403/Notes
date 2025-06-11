@@ -1,0 +1,8 @@
+How to use reg ex in validation
+Why cant we use procedures in sql imp
+
+
+
+Candidate has worked on the given project and presented an overall good project but needs to work on his core concepts
+Strengths- Oracle APEX, Good Communication Skills
+Areas of Improvement- PL/SQL, HTML, Analytical Thinking
